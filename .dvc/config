@@ -1,0 +1,4 @@
+[core]
+    remote = razag
+['remote "razag"']
+    url = s3://tayyabsalfirst
